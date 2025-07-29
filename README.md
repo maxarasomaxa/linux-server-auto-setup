@@ -7,7 +7,7 @@
 
 **Установка**
 1. Клонируйте репозиторий
-git clone https://github.com/ваш-логин/linux-server-auto-setup.git
+git clone https://github.com/maxarasomaxa/linux-server-auto-setup.git
 cd linux-server-auto-setup
 
 2. Дайте права на выполнение и запустите скрипт
